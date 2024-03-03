@@ -62,6 +62,7 @@ p {
 }
 
 li {
+    margin-top: 6px;
     padding-left: 7px;
     margin-left: -35px;
 height: 35px;
