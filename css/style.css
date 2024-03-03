@@ -20,6 +20,13 @@ div {
 
 span {
     color: rgb(255 111 32);
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100,
+        "YTLC" 500;
 }
 
 dt {
@@ -78,6 +85,6 @@ ol li::before {
     height: 16px;
     width: 16px;
     background-size: 16px;
-    background-image: url(../img/favicon\ \(1\).ico);
+    background-image: url(../img/limarker.png);
 }
 
