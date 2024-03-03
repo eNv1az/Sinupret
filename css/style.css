@@ -50,6 +50,7 @@ dd {
 }
 
 p {
+    margin-bottom: 30px;
     margin-top: -3px;
     font-family: "Nunito Sans", sans-serif;
     font-optical-sizing: auto;
@@ -61,6 +62,7 @@ p {
 }
 
 li {
+    padding-left: 7px;
     margin-left: -35px;
 height: 35px;
     font-family: "Nunito Sans", sans-serif;
@@ -80,6 +82,7 @@ ol {
     list-style-type: none;
 }
 ol li::before {
+    margin-right: 10px;
     content: "";
     display: inline-block;
     height: 16px;
